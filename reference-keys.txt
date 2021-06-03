@@ -1,8 +1,0 @@
-tab:load2
-tab:load2b
-tab:padjust
-gene-expression-omnibus-geo
-geoquery
-statistical-procedures
-t-test
-heatmap
